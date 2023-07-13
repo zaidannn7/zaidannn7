@@ -1,8 +1,4 @@
-### Hi there 👋 
-
-<!--
-
-Hi! I'm Zaidan.
+### Hi there 👋 I'm Zaidan.
 
 Here are some ideas to get you started:
 
@@ -10,7 +6,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: Git for better commit msg.
 - 📫 How to reach me: t.me/zaidannn7
 - ⚡ Fun fact: I'm a human
--->
 
 
 ![zaidannn7 GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidannn7&show_icons=true&theme=tokyonight)
