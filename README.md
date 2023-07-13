@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m interested for Android Development.
 - 🌱 I’m currently learning: Git for better commit msg.
-- 📫 How to reach me: t.me/zaidannn7
+- 📫 How to reach me: https://t.me/zaidannn7
 - ⚡ Fun fact: I'm a human
 
 
