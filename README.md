@@ -1,12 +1,13 @@
 ### Hi there 👋 
 
 <!--
-**zaidannn7/zaidannn7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Hi! I'm Zaidan.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m interested for Android Development.
-- 🌱 I’m currently learning: C++ 
+- 🌱 I’m currently learning: Git for better commit msg.
 - 📫 How to reach me: t.me/zaidannn7
 - ⚡ Fun fact: I'm a human
 -->
